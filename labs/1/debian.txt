@@ -1,0 +1,4 @@
+Host Debian
+Host name 134.199.233.146
+user root
+identityFile ~\.ssh\ocean
